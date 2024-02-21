@@ -50,7 +50,6 @@ app.enable("trust proxy");
 
 connectPassport();
 
-// Importing Routes
 import userRoute from "./routes/user.js";
 import orderRoute from "./routes/order.js";
 
